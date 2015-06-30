@@ -12,7 +12,7 @@ github_username: sweetverbs
 markdown: redcarpet
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 
-highlighting: rouge
+highlighter: rouge
 
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
